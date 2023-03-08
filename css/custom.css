@@ -1,0 +1,16 @@
+.gutter {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -khtml-user-select: none;
+}
+.footer {
+  height: 3rem;
+  line-height: 1.2rem;
+}
+h1 {
+  font-size: 1.6em;
+}
+h2 {
+  font-size: 1.2em;
+}
